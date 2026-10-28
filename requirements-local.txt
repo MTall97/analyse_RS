@@ -1,0 +1,9 @@
+-r requirements.txt
+# Copilote et mode client sur la machine de l'analyste (Windows)
+mss
+pillow
+pytesseract
+numpy
+soundcard
+faster-whisper==1.2.1
+av>=12,<16
